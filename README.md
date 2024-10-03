@@ -1,4 +1,4 @@
-# python_intoduction
+# python_introduction
 Python Introduction
 
 Python
